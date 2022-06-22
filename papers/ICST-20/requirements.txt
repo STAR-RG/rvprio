@@ -7,7 +7,7 @@ jedi==0.13.2
 kiwisolver==1.0.1
 lizard==1.15.7
 matplotlib==3.0.2
-numpy==1.16.0
+numpy==1.22.0
 pandas==0.23.4
 parso==0.3.1
 pexpect==4.6.0
